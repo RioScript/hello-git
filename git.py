@@ -1,1 +1,1 @@
-print("Los señores")
+print("Lucho Diaz")
